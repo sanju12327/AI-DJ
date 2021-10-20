@@ -1,0 +1,73 @@
+.heading
+{
+    width: 100%;
+    font-size: 25px;
+    margin: 0px;
+}
+
+.subheading
+{
+    font-size: 15px;
+    color: black;
+}
+
+.background
+{
+    background-size: cover;
+}
+
+.div_speed_img
+{
+    width: 250px;
+    border-radius: 250px;
+}
+
+.div_speed
+{
+    float: left;
+}
+
+#speed 
+{
+    font-size: 25px;
+}
+
+.div_volume_img
+{
+    width: 250px;
+    border-radius: 250px;
+}
+
+.div_volume
+{
+    float: right;
+}
+
+#volume 
+{
+    font-size: 25px;
+}
+
+.play
+{
+    font-size: 35px;
+    margin-top: 100px;
+}
+
+canvas
+{
+    border: 5px solid mintcream;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px mistyrose;
+    margin-top: 200px;
+}
+
+.footer
+{
+    background-color: cornsilk;
+    bottom: 0px;
+    text-align: center;
+    margin-bottom: 0px;
+    position: fixed;
+    width: 100%;
+}
